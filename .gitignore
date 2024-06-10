@@ -1,2 +1,4 @@
 test.txt
-app2/*
+
+
+!app2/test.txt
